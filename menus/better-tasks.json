@@ -17,6 +17,10 @@
             {
               "label": "Toggle",
               "command": "better-tasks:toggle"
+            },
+            {
+              "label": "New Task",
+              "command": "better-tasks:insert"
             }
           ]
         }
