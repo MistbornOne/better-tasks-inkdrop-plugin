@@ -1,6 +1,7 @@
 {
   "body": {
     "ctrl-alt-o": "better-tasks:toggle",
-    "ctrl-alt-t": "better-tasks:insert"
+    "ctrl-alt-t": "better-tasks:insert",
+    "ctrl-alt-e": "better-tasks:edit"
   }
 }
