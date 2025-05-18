@@ -21,6 +21,10 @@
             {
               "label": "New Task",
               "command": "better-tasks:insert"
+            },
+            {
+              "label": "Edit Task",
+              "command": "better-tasks:edit"
             }
           ]
         }
