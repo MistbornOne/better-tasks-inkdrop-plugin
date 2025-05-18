@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Toggle better-tasks",
+        "command": "better-tasks:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "better-tasks",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "better-tasks:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

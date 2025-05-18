@@ -1,0 +1,13 @@
+{
+  "name": "better-tasks",
+  "main": "./lib/better-tasks",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "repository": "https://github.com/inkdropapp/better-tasks",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.3.1"
+  },
+  "dependencies": {}
+}
